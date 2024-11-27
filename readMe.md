@@ -16,4 +16,3 @@ TypeScript
 Unit Testing with Jest
 CI/CD, and AWS Services.
 Node.js
-Redux
